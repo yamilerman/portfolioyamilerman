@@ -86,7 +86,7 @@ const proyectos = [
     titulo: "Portfolio web",
     descripción:
       "Este proyecto fue desarrollado para mostrar todos los proyectos en los que voy trabajando. Es una web con código sostenible, de fácil edición y mantenimiento.",
-    link: "",
+    link: "https://portfolioyamilerman.netlify.app/",
     imagen: "webyami.png",
     tecnologias: ["HTML", "CSS", "JAVASCRIPT"],
   },
